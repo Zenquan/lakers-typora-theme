@@ -1,0 +1,12 @@
+{
+  "name": "lakers-typora-theme",
+  "version": "1.0.0",
+  "description": "> 这是基于typora自带的Cobalt和Whitey，加上自己摹改，最终形成的typora主题。",
+  "main": "index.js",
+  "scripts": {
+    "update": "node ./update/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
