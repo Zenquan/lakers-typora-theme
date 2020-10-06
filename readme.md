@@ -9,3 +9,9 @@
 ![](https://i.loli.net/2020/10/07/SDnvrao5MiKFVCx.png)
 
 - 把lakers.css和lakers复制粘贴至主题文件夹中，重启typora
+
+- 空笔记状态
+
+  ![截屏2020-10-07 上午12.38.01](https://i.loli.net/2020/10/07/bw3JZuhQRFjPIqT.png)
+
+  
