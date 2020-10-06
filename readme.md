@@ -4,6 +4,8 @@
 
 ### 使用
 
-打开typora的偏好设置》外观》主题，点击”打开主题文件夹“
+- 打开typora的偏好设置》外观》主题，点击”打开主题文件夹“
 
 ![](https://i.loli.net/2020/10/07/SDnvrao5MiKFVCx.png)
+
+- 把lakers.css和lakers复制粘贴至主题文件夹中，重启typora
